@@ -1701,6 +1701,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "progress_bar"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+]
+
+[[package]]
 name = "quote"
 version = "1.0.26"
 source = "registry+https://github.com/rust-lang/crates.io-index"
